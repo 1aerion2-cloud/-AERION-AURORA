@@ -108,7 +108,7 @@ AERION AURORA is an independent project. References to ChartFox, Microsoft Fligh
 
 The following streams document flight-simulation testing during AERION AURORA’s development:
 
-* Flight-test stream 1
-* Flight-test stream 2
+- [Flight-test stream 1](https://www.youtube.com/watch?v=Y26e11WAUqU)
+- [Flight-test stream 2](https://www.youtube.com/watch?v=S85aNV5ZgLw)
 
 These recordings show development builds. Features, appearance and reliability may change as testing continues. They do not represent a finished release or an approved ChartFox integration.
